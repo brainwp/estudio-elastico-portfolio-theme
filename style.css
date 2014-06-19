@@ -1010,6 +1010,103 @@ p#breadcrumbs {
 	font-size: 16px;
 }
 
+body.page-template-page-intro-php {
+	background: url("img/capa-estudio-elastico.jpg") center center fixed;
+}
+
+.tarja {
+	width: 100%;
+	margin: 250px auto 0;
+	padding: 40px 15px;
+	background: #FFF;
+	overflow: hidden;
+}
+
+.tarja .conteudo {
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+.tarja .logo {
+	float: left;
+	width: 20%;
+}
+
+.tarja small {
+	float: left;
+	width: 20%;
+	color: #67AD85;
+	margin: 0 3%;
+}
+
+.tarja a, .tarja a:hover {
+	text-decoration: none;
+	border: none;
+}
+
+.tarja .icon {
+	width: 70px;
+	height: 70px;
+	margin: 20px 20px 0;
+	background-color: #f1f1f1;
+	background-size: 100%;
+	float: left;
+	position: relative;
+}
+
+.tarja .icon a.link {
+	width: 70px;
+	height: 70px;
+	position: absolute;
+}
+
+.ui-tooltip, .arrow:after {
+   background: #67AD85;
+}
+.ui-tooltip {
+	padding: 10px 20px;
+    color: white !important;
+    background: #67AD85 !important;
+    border-radius: 2px;
+    max-width: 250px;
+    border: none !important;
+    box-shadow: none !important;
+}
+.arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+}
+.arrow.top {
+    top: -16px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    tranform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	END WORDPRESS STYLES
 /*-----------------------------------------------------------------------------------*/
