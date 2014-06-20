@@ -1012,6 +1012,7 @@ p#breadcrumbs {
 
 body.page-template-page-intro-php {
 	background: url("img/capa-estudio-elastico.jpg") center center fixed;
+	background-size: 100%;
 }
 
 .tarja {
@@ -1048,7 +1049,6 @@ body.page-template-page-intro-php {
 	width: 70px;
 	height: 70px;
 	margin: 20px 20px 0;
-	background-color: #f1f1f1;
 	background-size: 100%;
 	float: left;
 	position: relative;
