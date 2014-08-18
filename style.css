@@ -559,7 +559,7 @@ pre {
 }
 
 .unordered, .hentry ul {
-	margin-bottom: 25px; list-style: square; margin-left: 50px;
+	margin-bottom: 45px; list-style: square; margin-left: 50px;
 }
 
 .numbered, .hentry ol {
@@ -657,15 +657,15 @@ display: block;
 }
 
 .rslides_tabs li {
-	display: inline-block; margin: 0 3px;
+	display: inline-block; margin: 0 12px;
 }
 
 .rslides_tabs li a {
-	 text-indent: -99999px; width: 50px; height: 5px; background: rgba(255,255,255,0.5); display: inline-block; border: none;
+	 text-indent: -99999px; width: 27px; height: 27px; background: url("img/bola-slider.png"); display: inline-block; border: none;
 }
 
 .rslides_tabs li.rslides_here a, .rslides_tabs li a:hover {
-	background: #fff;
+	background: url("img/bola-slider-hover.png");
 }
 
 /*-----------------------------------------------------------------------------------*/
