@@ -45,6 +45,7 @@
 						<div class="gallery-details">
 							<h5 class="small-bottom"><?php the_title(); ?></h5>
 							<p class="meta small-bottom"><?php echo the_simple_terms_links(); ?></p>
+							<h6 class="remove-bottom"><?php echo get_post_meta( $post->ID, '_cmb_the_subtitle', true ); ?></h6>
 						</div>
 					</a>
 				</li>
