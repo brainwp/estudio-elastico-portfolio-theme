@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: other/search.php:26
+msgid " Item"
+msgstr ""
+
+#. Text in echo
+#: other/search.php:26
+msgid " Items"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:2
+#: other/postformats/home/format-gallery.php:6
+#: other/postformats/home/format-standard.php:7
+#: other/loop/loop-meta.php:16
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add a Client Name for this Project?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add a URL for this Project?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add the Date this Project Took Place?"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:2
+#: other/postformats/home/format-gallery.php:6
+#: other/postformats/home/format-standard.php:7
+#: other/loop/loop-meta.php:16
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:2
+#: other/postformats/home/format-gallery.php:6
+#: other/postformats/home/format-standard.php:7
+#: other/loop/loop-meta.php:16
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "1st & 2nd Generation iPad Favicon (72x72px)"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "ARCHIVE - Portfolio Layout"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:95
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Additional Item Details"
+msgstr ""
+
+#. Text in echo
+#: other/header.php:57
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Blog \"Continue Reading\" Text"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:101
+msgid "Button Link"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:108
+msgid "Button Text"
+msgstr ""
+
+#. Text in echo
+#: other/single-portfolio.php:54
+msgid "CLIENT :"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Choose layout for Blog."
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Client Name"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Client URL"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Comments Title"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Contact Page Options"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:71
+msgid "Currency"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Custom Favicon Upload"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Custom Logo Alt Text"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Custom Logo Upload"
+msgstr ""
+
+#. Text in echo
+#: other/single-portfolio.php:60
+msgid "DATE :"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Date Joined"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:139
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: other/loop/loop-meta.php:
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Email *"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Enter your comment here..."
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:134
+msgid "Features"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Animate Hovers on Vertical and Horizontal Layouts?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Highlight Colour"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Highlight Hover Colour"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Image Hover Background Colour"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Page Background (Light)"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Posts Per Page for Portfolio"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "GLOBAL - Text Colour"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Gallery Shortcode"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Google Map iFrame"
+msgstr ""
+
+#. Text in echo
+#: other/404.php:8
+msgid "Head Home &rarr;"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Job Title"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Logged in as <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - INDEX - Show categories?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - INDEX - Show comments?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - INDEX - Show date?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - INDEX - Show tags?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - SINGLE - Show comments?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - SINGLE - Show date?"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "META - SINGLE - Show tags?"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Name *"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Non-Retina Mobile Favicon Upload"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:126
+msgid "Open / Close"
+msgstr ""
+
+#. Text in echo
+#: other/single.php:26
+msgid "Posted In"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:78
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "Project Date"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Retina Logo - Needs @2x on the file e.g logo@2x.png"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Retina iPad Favicon (144x144px)"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Retina iPhone Favicon (114x114px)"
+msgstr ""
+
+#. Text in echo
+#: other/search.php:26
+msgid "Returned: "
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "SINGLE - Title For Prject Details"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Small logo for mobile"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/theme_options.php:14
+msgid "Small logo mobile retina - Needs @2x on the file e.g logo@2x.png"
+msgstr ""
+
+#. Text in echo
+#: other/loop/portfolio/loop-vertical.php:37
+#: other/loop/team/loop-vertical.php:41
+#: other/loop/blog/loop-medium.php:36
+#: other/page_team_vertical.php:58
+#: other/loop/blog/loop-masonry.php:27
+#: other/loop/portfolio/loop-masonryhome.php:36
+#: other/page_portfolio_horizontal.php:54
+#: other/page_blog_medium.php:52
+#: other/loop/blog/loop-full.php:32
+#: other/loop/team/loop-masonry.php:29
+#: other/search.php:55
+#: other/loop/team/loop-horizontal.php:42
+#: other/page_portfolio_vertical.php:52
+#: other/page_team_horizontal.php:59
+#: other/loop/portfolio/loop-horizontal.php:39
+#: other/page_blog_large.php:51
+#: other/loop/portfolio/loop-masonry.php:31
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: other/single-portfolio.php:66
+msgid "TAGS :"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:1
+msgid "Table Detail"
+msgstr ""
+
+#. Text in function
+#: other/single.php:57
+msgid "Tagged: "
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "The Gallery Shortcode"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "The Job Title"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "The Page Subtitle"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "The Subtitle"
+msgstr ""
+
+#. Text in function
+#: other/ebor_framework/metaboxes.php:1
+msgid "The Video Link"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:57
+msgid "Title for this Table"
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/alert_block.php:37
+msgid "Use this block to add columns of text to your page. Grab the edge of the block to resize to your needs."
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/pricing_table_block.php:52
+msgid "Use this block to add pricing tables to your page."
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/tabs_block.php:41
+msgid "Use this block to add tabs and accordions to the page."
+msgstr ""
+
+#. Text in echo
+#: other/ebor_framework/page_builder_blocks/clear_block.php:41
+msgid "Use this block to clear the floats between two or more separate blocks vertically."
+msgstr ""
+
+#. Text in echo
+#: other/single-portfolio.php:72
+msgid "WEBSITE :"
+msgstr ""
+
+#. Text in function
+#: other/comments.php:9
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: other/search.php:26
+msgid "Your Search For: "
+msgstr ""
+
+#. Text in echo
+#: other/functions.php:65
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: other/searchform.php:2
+msgid "type and hit enter"
+msgstr ""
