@@ -102,3 +102,10 @@ function custom_comment($comment, $args, $depth) { $GLOBALS['comment'] = $commen
 	</li>
 <?php }
 
+function my_favicon() {
+ $src = get_stylesheet_directory_uri() . '/img/favicon.ico';
+ echo '<link rel="shortcut icon" href="'. $src . '" />';
+}
+add_action('wp_head', 'my_favicon');
+add_action('admin_head', 'my_favicon');
+
