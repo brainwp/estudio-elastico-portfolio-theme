@@ -8,10 +8,6 @@ add_theme_support( 'post-thumbnails' );
 
 add_theme_support( 'woocommerce' );
 
-//STYLING & CUSTOM OPTIONS
-$bgArgs = array( 'default-color' => 'f5f5f5', );
-add_theme_support( 'custom-background', $bgArgs );
-
 //IMAGE SIZES
 add_image_size( 'admin-list-thumb', 60, 60, true );
 add_image_size( 'page', 1000, 9999, false );
