@@ -325,8 +325,7 @@ nav ul > li:last-of-type a {
 
 nav ul li ul {
 	display: none; position: absolute; min-width: 225px; top: -1px; z-index: 999; border: 1px solid #c5c5c5; box-shadow: 2px 2px 1px 0px rgba(40, 40, 40, 0.1);
-    margin-top:25px;
-    margin-left:20px;
+    margin-left:100%;
 }
 
 nav ul li ul li:last-child > a {
