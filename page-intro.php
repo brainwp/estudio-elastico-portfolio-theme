@@ -2,7 +2,7 @@
 	/* Template Name: Introdução */
 	get_header( 'intro' ); 
 ?>
-
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 <div class="tarja">
 	<div class="conteudo">
 		<?php if( get_option('custom_logo') ) : ?>
@@ -14,8 +14,8 @@
 				<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo-estudio-elastico.png" alt="Estúdio Elástico" class="retina" />
 			</a>
 		<?php endif; ?>
-			
-		<small><?php echo bloginfo('description'); ?></small>
+
+		<small><?php the_content(); ?></small>
 		
 		<?php
 			$icon_criacao = of_get_option( 'icone_criacao' );
@@ -79,5 +79,8 @@
 
 	</div><!-- conteudo -->
 </div>
+<?php endwhile; else: ?>
+	<p><?php _e('Sorry, no posts matched your criteria.','other'); ?></p>
+<?php endif; ?>
 
 <?php get_footer(); ?>

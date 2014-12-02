@@ -11,12 +11,6 @@
 	do_action('ebor_open_standard_wrapper');
 	
 	/**
-	 * Get /loop/nav-single.php
-	 * Creates post by post navigation for single post items
-	 */
-	get_template_part('loop/nav','single');
-	
-	/**
 	 * Get /postformats/format-xyz.php
 	 * Gets content based on chosen post format
 	 */
@@ -105,7 +99,12 @@
 	 * @hooked ebor_close_article_markup - 10
 	 */
 	do_action('ebor_close_article');
-
+	
+    /**
+	 * Get /loop/nav-single.php
+	 * Creates post by post navigation for single post items
+	 */
+	get_template_part('loop/nav','single');
 	/**
 	 * ebor_close_standard_wrapper hook
 	 * All actions contained in /ebor_framework/theme_actions.php
