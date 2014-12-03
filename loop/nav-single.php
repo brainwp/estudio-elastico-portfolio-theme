@@ -9,10 +9,10 @@
 ?>
 <div class="article-nav <?php if( get_post_type() == 'post' || get_post_type() == 'team' ) echo 'blog'; ?>">
 	
-	<?php next_post_link('%link', "<i class='icon-angle-left'></i>".__('Próximo','other')); ?>
+	<?php next_post_link('%link', "<i class='icon-angle-left'></i>".__('<span class="next-text">Próximo</span>','other')); ?>
 	
 	<a href="<?php echo $home_url; ?>" class="close"><i class="icon-angle-right"></i><i class="icon-angle-left"></i></a>
 	
-	<?php previous_post_link('%link', __('Anterior','other')."<i class='icon-angle-right'></i>"); ?>
+	<?php previous_post_link('%link', __('<span class="prev-text">Anterior</span>','other')."<i class='icon-angle-right'></i>"); ?>
 	
 </div>
